@@ -16,7 +16,7 @@ Cost saving example:
 * Optimized Premium 250 DTU 15x5x4, Standard 100 DTU 9x5x4, Standard 100 DTU 24x2x4 = £629 p/m
 
 
-![Web Requests Diagram](https://github.com/cbchalmers/Azure-PaaS-Sql-ElasticPool-Resize-Automation/blob/master/diagrams/web_requests.jpg)
+![Web Requests Diagram](https://github.com/cbchalmers/Azure-PaaS-Sql-ElasticPool-Resize-Automation/blob/master/diagrams/web_requests.JPG)
 
 ### Prerequisites
 
